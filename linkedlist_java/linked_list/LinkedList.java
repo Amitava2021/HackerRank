@@ -47,7 +47,7 @@ public class LinkedList {
 
   public void pop() {
     if(head == null) {
-      System.out.println("The Stack is empty");
+      System.out.println("The Stack is empty ");
       return;
     }
     Node del_node = head;
